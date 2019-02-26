@@ -1,5 +1,5 @@
 classes = 2
 train = train.txt
 valid = test.txt
-names = hf_obj.names
+names = hf.names
 backup = /backup
