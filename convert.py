@@ -3,7 +3,7 @@ import glob, os
 current_dir = os.path.dirname(os.path.abspath(__file__))
 print(current_dir)
 current_dir = '/Users/dannykim/dataset/img/'
-target_dir = '/content/dataset/img'
+target_dir = 'data/img/'
 # Percentage of images to be used for the test set
 percentage_test = 10;
 # Create and/or truncate train.txt and test.txt
