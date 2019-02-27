@@ -2,4 +2,4 @@ classes = 2
 train = dataset/train.txt
 valid = dataset/test.txt
 names = dataset/hf.names
-backup = backup
+backup = backup/
