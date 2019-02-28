@@ -1,0 +1,5 @@
+classes = 10
+train = dataset/train.txt
+valid = dataset/test.txt
+names = dataset/food.names
+backup = backup/
