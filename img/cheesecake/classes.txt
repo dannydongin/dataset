@@ -1,0 +1,10 @@
+pizza
+fries
+hotdog
+hamburger
+burrito
+onionrings
+frenchtoast
+cheesecake
+chocolatecake
+redvelvetcake
